@@ -365,7 +365,3 @@ Najlepiej uczy się w praktyce, pora coś zrobić! Zrobimy prostą, statychną s
   </body>
 </html>
 ```
-
-# I. CSS
-
-Poznałeś już html'a, jest nie najładniejszy. Pora by poznać css (Cascading Style Sheets) by strona wyglądała lepiej.
