@@ -1,8 +1,12 @@
 # I. HTML (Hypertext Markup Language)
 
-## 1. Wprowadzenie do HTML
+## 1. Uruchamianie HTML
 
 ## 2. Podstawy HTML
+
+## 3. Tagi HTML
+
+## 4. Prosty Projekt w HTML
 
 # II. CSS
 
