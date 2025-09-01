@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "clear && bun run index.ts"
+    "build": "clear && bun run main.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
