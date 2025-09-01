@@ -2,6 +2,8 @@
 
 ## 1. Wprowadzenie do HTML
 
+## 2. Podstawy HTML
+
 # II. CSS
 
 # III. JS (JavaScript) podstawy
